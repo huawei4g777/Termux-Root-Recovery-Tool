@@ -3,6 +3,7 @@
 # Termux-Root-Recovery-Tool
 This tool install Custom Recovery, Boot.img, VBmeta.img, init_boot.img, Flash Zip in sideload, install gsi-rom, Download boot.img without flash file, AB Partition Device flash, fastboot rom flash, ```bootloader unlocked devices only```
 
+#this repo a fork from https://github.com/Ishu43642/Termux-Root-Recovery-Tool
 
 # Tool Features
 
@@ -56,7 +57,7 @@ yes | pkg install git
 # Installation Termux-Root-Recovery-Tool in Termux :-
 
 ```console
-git clone https://github.com/Ishu43642/Termux-Root-Recovery-Tool.git
+git clone https://github.com/huawei4g777/Termux-Root-Recovery-Tool.git
 ```
 
 ```console
@@ -93,7 +94,7 @@ bash installadb.sh
 
 2. [Mahesh Verma](https://github.com/MaheshTechnicals) - For Ui Enhancement in my tool
 
-# Subscribe My YouTube channel 
+3.Repair A2Z for original tool(https://github.com/Ishu43642/Termux-Root-Recovery-Tool)
 
-1. [Repair A2Z](https://youtube.com/@repaira2z)
-2. [Repair A2Z Mix](https://youtube.com/@repaira2zmix)
+# Subscribe My YouTube channel 
+Aurora boyteck [https://m.youtube.com/channel/UC_HH0pvxfivQZcGdW418MVA]
